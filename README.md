@@ -1,2 +1,3 @@
 # FEUP-DDJD
-Projects for Digital Game Design and Development
+Project for Digital Game Design and Development
+Game Link: https://codyphin.itch.io/deadlinemeeter
